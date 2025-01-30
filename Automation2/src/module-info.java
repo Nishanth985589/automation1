@@ -1,0 +1,2 @@
+module Automation2 {
+}
